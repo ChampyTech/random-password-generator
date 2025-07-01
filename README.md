@@ -1,6 +1,6 @@
 # 🔐 Random Password Generator
 
-Generate strong, secure, and completely random passwords for free.
+Generate secure, random passwords for free, without registration, tracking, or advertising.
 
 ## ✨ Features
 
@@ -22,6 +22,6 @@ This web app generates random passwords using a combination of:
 You can customize password length and choose which character types to include.
 
 ## 🙌 Contributions
-Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
+Got an idea? Want to add something awesome? <a href="https://github.com/ChampyTech/random-password-generator/issues/new" target="_blank">Open an issue on GitHub!</a>
 
 © 2025 - Created by ChampyTech
