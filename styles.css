@@ -1,0 +1,86 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    width: 350px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.underlineBig {
+    border-bottom: 4px solid #007bff;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    margin: 8px 0;
+}
+
+input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+.length-input {
+    width: 100%;
+    margin: 8px 0;
+}
+
+#passwordLength {
+    margin-top: 16px;
+}
+
+.password-display {
+    font-size: 18px;
+    padding: 8px;
+    background: #f0f0f0;
+    border-radius: 8px;
+    margin: 16px 0;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+#footer {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.btn {
+    font-family: inherit;
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 8px;
+    transition-duration: 0.2s;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background: #0056b3;
+}
+
+.strength {
+    margin: 16px 0;
+    text-align: center;
+    font-weight: bold;
+}
