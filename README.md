@@ -24,4 +24,4 @@ You can customize password length and choose which character types to include.
 ## 🙌 Contributions
 Got an idea? Want to add something awesome? <a href="https://github.com/ChampyTech/random-password-generator/issues/new" target="_blank">Open an issue on GitHub!</a>
 
-© 2025 - Created by ChampyTech
+© 2025 - Created by <a href="https://github.com/ChampyTech" target="_blank">ChampyTech</a></p>
