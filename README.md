@@ -1,5 +1,7 @@
 # 🔐 Random Password Generator
 
+<a href="https://champytech.github.io/random-password-generator/">🔗 Visit website</a>
+
 Generate secure, random passwords for free, without registration, tracking, or advertising.
 
 ## ✨ Features
