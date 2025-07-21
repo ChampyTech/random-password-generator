@@ -24,6 +24,6 @@ This web app generates random passwords using a combination of:
 You can customize password length and choose which character types to include.
 
 ## 🙏 Contributing
-Got an <b>idea</b>? Want to add something awesome? <a href="https://github.com/ChampyTech/random-password-generator" target="_blank">Open an issue or a pull request on GitHub!</a>
+Got an <b>idea</b>? Want to add something awesome? <a href="." target="_blank">Open an issue or a pull request on GitHub!</a>
 
 Made with ❤️ by <b><a href="https://github.com/ChampyTech" target="_blank">ChampyTech</a></b>
