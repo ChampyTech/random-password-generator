@@ -1,3 +1,6 @@
+> # 🗃️ Archived Repository
+> This repository has been archived and will no longer be updated. The project was a simple random password generator, but it is no longer maintained or supported. The code remains available for reference/study purposes only.
+
 # 🔐 Random Password Generator
 
 <a href="https://champytech.github.io/random-password-generator/">🔗 Visit website</a>
